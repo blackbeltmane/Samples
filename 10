@@ -1,0 +1,4 @@
+var first, second, result;
+first=10;
+second=20;
+result=first+second;
