@@ -1,0 +1,6 @@
+var resultArray = [ ], first, second, senseOfLife;
+first=1;
+second=2;
+senseOfLife=42;
+var pushed = resultArray.push(first, second);
+unshifted = resultArray.unshift(senseOfLife);
