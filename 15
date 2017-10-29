@@ -1,0 +1,8 @@
+var senseOfLife = 42;
+
+function showVariable (otherSenseOfLife) {
+
+if (otherSenseOfLife!= null) {senseOfLife=otherSenseOfLife;}
+   
+   return senseOfLife;
+}
