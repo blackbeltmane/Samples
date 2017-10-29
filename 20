@@ -1,0 +1,7 @@
+$(document).ready(function(){
+    $("p").click(function() {
+    $("p").click(function(){
+    $(this).css("color","red").("font-size","30px");
+});
+        });
+});
