@@ -1,0 +1,6 @@
+var start, result = [ ];
+start = 100;
+result[0]=100;
+result[100]=0;
+
+
